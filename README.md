@@ -107,8 +107,6 @@ TestBaseModel class:
 
 [/test_models/test_review.py](/tests/test_models/test_review.py) - Contains the TestReviewDocs class:
 * `def setUpClass(cls)` - Set up for the doc tests
-* `def test_pep8_conformance_review(self)` - Test that models/review.py conforms to PEP8
-* `def test_pep8_conformance_test_review(self)` - Test that tests/test_models/test_review.py conforms to PEP8
 * `def test_review_module_docstring(self)` - Test for the review.py module docstring
 * `def test_review_class_docstring(self)` - Test for the Review class docstring
 
@@ -154,9 +152,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Pilate Chinyengetere - [Github](https://github.com/pilatech) / [Twitter](https://twitter.com/pchinyengetere)  
+Mustapha Khalid - [Github](https://github.com/) / [Twitter](https://twitter.com/)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
