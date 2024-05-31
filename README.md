@@ -151,9 +151,8 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors
-Pilate Chinyengetere - [Github](https://github.com/pilatech) / [Twitter](https://twitter.com/pchinyengetere)  
-Mustapha Khalid - [Github](https://github.com/) / [Twitter](https://twitter.com/)
+## Author(https                               
+mustapha Khalid - [Github](https://github.com/staph123292) / [Twitter](https://twitter.com/)
 
 ## License
 Public Domain. No copy write protection. 
